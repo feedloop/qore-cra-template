@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "@feedloop/qore-cli": "^0.1.27"
+    "@feedloop/qore-cli": "^0.1.28"
   }
 }

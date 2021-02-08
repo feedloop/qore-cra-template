@@ -1163,10 +1163,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@feedloop/qore-cli@^0.1.27":
-  version "0.1.27"
-  resolved "https://registry.yarnpkg.com/@feedloop/qore-cli/-/qore-cli-0.1.27.tgz#b4ee1250fdc4d05d4c546479816a211ccf5ddaff"
-  integrity sha512-oKBy0kg6GFjhfe6/S4rfZizDLEHErx+d+ewHCv7WeAr8OHmVZZ79vJtAYcxg+qblmTQl0xEFQO1WsgS5iM8TBg==
+"@feedloop/qore-cli@^0.1.28":
+  version "0.1.28"
+  resolved "https://registry.yarnpkg.com/@feedloop/qore-cli/-/qore-cli-0.1.28.tgz#defef60c3dbc057cf5ac07f46070b036eaef6a5b"
+  integrity sha512-Pcrfsk6fL37WKx/KxLwVeabceOqTPFkImYPjM/I2LzzQUtcbbAD55PaaNNB4eMLXqbqbeow8sWJOqzUaUNObLg==
   dependencies:
     "@feedloop/qore-sdk" "^0.1.8"
     "@oclif/command" "^1"
