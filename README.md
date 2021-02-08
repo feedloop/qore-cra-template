@@ -1,6 +1,36 @@
-# Getting Started with Create React App
+# Qore CRA Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Using this template
+
+Login to your app with this command
+
+```sh
+npx @feedloop/qore-cli login
+```
+
+Create a new qore project with this template
+
+```sh
+npx @feedloop/qore-cli create-project --template https://github.com/feedloop/qore-cra-template.git <your-new-project-name>
+```
+
+Go to your new project directory, install the dependencies
+
+```sh
+cd new-project;
+npm install
+```
+
+Runt the project and visit the given development url.
+
+```sh
+npm start
+```
+
+See if the development server prints your email, it means that you are good to go.
+If you see any problem, please let us know [here](https://gitter.im/feedloop/qore-sdk). In the meantime you can read the SDK documentation [here](https://sdk-docs.qorebase.io/?jsx#getting-started).
+
+> This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
