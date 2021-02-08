@@ -38,7 +38,15 @@
       "isAdmin": false,
       "isEditor": false,
       "isPublic": true,
-      "permissions": []
+      "permissions": [
+        {
+          "insert": false,
+          "select": true,
+          "update": false,
+          "delete": false,
+          "viewId": "allMember"
+        }
+      ]
     }
   ],
   "forms": [],
