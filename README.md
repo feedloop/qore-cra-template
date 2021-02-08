@@ -28,6 +28,9 @@ npm start
 ```
 
 See if the development server prints your email, it means that you are good to go.
+
+When in doubt, run `npm run codegen` to sync the latest config of your project.
+
 If you see any problem, please let us know [here](https://gitter.im/feedloop/qore-sdk). In the meantime you can read the SDK documentation [here](https://sdk-docs.qorebase.io/?jsx#getting-started).
 
 > This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
