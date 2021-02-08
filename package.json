@@ -20,6 +20,9 @@
     "eject": "react-scripts eject",
     "codegen": "npx qore codegen --path src"
   },
+  "qoreconfig": {
+    "path": "src"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
